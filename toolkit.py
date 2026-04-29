@@ -30,7 +30,7 @@ def banner():
  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═════╝
 \033[0m
 \033[96m                    Python Cyber Security Toolkit v1.0
-                    github.com/yourusername/cybershield-toolkit\033[0m
+                    github.com/Dilshan-99/cybershield-toolkit\033[0m
     """)
 
 
