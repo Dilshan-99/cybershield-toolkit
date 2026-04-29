@@ -25,7 +25,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/cybershield-toolkit.git
+git clone https://github.com/Dilshan-99/cybershield-toolkit.git
 cd cybershield-toolkit
 ```
 
